@@ -1,0 +1,13 @@
+{
+  "name": "day7",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "--- Day 7: Camel Cards ---\r Your all-expenses-paid trip turns out to be a one-way, five-minute ride in an airship. (At least it's a cool airship!) It drops you off at the edge of a vast desert and descends back to Island Island.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
